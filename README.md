@@ -1,5 +1,5 @@
 ### EX NO : 06
-### DATE  : 12.05.2022
+
 # <p align="center">Operator-Overloading</p>
 
 ## Aim:
